@@ -45,7 +45,7 @@ public class ficha {
         return "RABNMVGC".indexOf(c) >= 0;
     }
     
-    // CONSULTAS
+    // CONSULTASs
     
     public String getNombre(){
         return nombre;
